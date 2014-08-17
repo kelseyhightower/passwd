@@ -1,6 +1,6 @@
 # passwd
 
-[![Build Status](https://travis-ci.org/kelseyhightower/passwd.png?branch=master)](https://travis-ci.org/kelseyhightower/passwd)
+[![Build Status](https://travis-ci.org/kelseyhightower/passwd.png?branch=master)](https://travis-ci.org/kelseyhightower/passwd) [![GoDoc](https://godoc.org/github.com/kelseyhightower/passwd/user?status.svg)](https://godoc.org/github.com/kelseyhightower/passwd/user)
 
 Drop in replacement for the os/user package. Useful when building without cgo and want to fallback to /etc/passwd.
 
